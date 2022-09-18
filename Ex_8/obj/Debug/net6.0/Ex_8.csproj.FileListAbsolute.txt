@@ -1,0 +1,15 @@
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\bin\Debug\net6.0\Ex_8.exe
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\bin\Debug\net6.0\Ex_8.deps.json
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\bin\Debug\net6.0\Ex_8.runtimeconfig.json
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\bin\Debug\net6.0\Ex_8.dll
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\bin\Debug\net6.0\Ex_8.pdb
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\obj\Debug\net6.0\Ex_8.csproj.AssemblyReference.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\obj\Debug\net6.0\Ex_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\obj\Debug\net6.0\Ex_8.AssemblyInfoInputs.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\obj\Debug\net6.0\Ex_8.AssemblyInfo.cs
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\obj\Debug\net6.0\Ex_8.csproj.CoreCompileInputs.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\obj\Debug\net6.0\Ex_8.dll
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\obj\Debug\net6.0\refint\Ex_8.dll
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\obj\Debug\net6.0\Ex_8.pdb
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\obj\Debug\net6.0\Ex_8.genruntimeconfig.cache
+C:\Users\darya\OneDrive\Рабочий стол\C#\Home_work_1\Ex_8\obj\Debug\net6.0\ref\Ex_8.dll
